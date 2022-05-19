@@ -1,5 +1,6 @@
 ## Welcome to the cool kid zone 
-![funny man garfield](https://user-images.githubusercontent.com/100317470/169408916-e4b5522e-a7ba-4f3d-8913-c78d39a91e66.jpg)
+![unknown (1)](https://user-images.githubusercontent.com/100317470/169409096-f6f70c8c-05bf-4f87-ac71-afa6f903e135.png)
+
 
 I can sort of code, I dunno I'm trying my best
 
