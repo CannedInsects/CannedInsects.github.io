@@ -15,7 +15,6 @@ If you want to see my replit account here's the link :D https://replit.com/@Snim
 ### What kind of coding do I do exactly?
 Personally I really like using turtle it's visual and it's fun to use! :D Other than that I can only really do basic python but I want to improve because I've always wanted to make a video game. 
 
-[![Garfield](/assets/images/garfield.jpg "Plush Garfield")](https://m.media-amazon.com/images/I/61TKIyX8gNL._AC_SL1500_.jpg)
 
 ### Links you can look at
 A song I think is pretty neat: https://youtu.be/EeVMCOfYhJo  
