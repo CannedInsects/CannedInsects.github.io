@@ -5,9 +5,12 @@ I can sort of code, I dunno I'm trying my best
 If you want to see my replit account here's the link :D https://replit.com/@Snimz 
 
 
-### Markdown
+### Stuff I like
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Bugs
+2. Horror Fiction Podcasts
+3. Pet sites (Neopets, Goatlings, Webkinz etc)
+4. Listening to music
 
 ```markdown
 Syntax highlighted code block
