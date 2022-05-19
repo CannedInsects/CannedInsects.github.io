@@ -26,4 +26,5 @@ Garfield: https://www.gocomics.com/garfield/2007/11/26
 ### Conclusion
 Did you know one of the largest species of beetles are the Rhinoceros beetle, they can grow up to 6 inches and some people keep them as pets?  
 That's not important I just think that's neat.  
-![hank](https://user-images.githubusercontent.com/100317470/169409523-e00aa2be-ce5c-4358-b4c3-19a8de373538.jpg)
+
+![coolest garfield](https://user-images.githubusercontent.com/100317470/169409668-af2bb7ec-ceab-405b-9d5d-27086ceccc59.jpg)
