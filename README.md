@@ -19,7 +19,9 @@ Personally I really like using turtle it's visual and it's fun to use! :D Other 
 [link](file:///C:/Users/sofia/Downloads/funny%20man%20garfield.jpg)
 
 ### Links you can look at
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+A song I think is pretty neat: https://youtu.be/EeVMCOfYhJo
+Garfield: https://www.gocomics.com/garfield/2007/11/26
+(Pretend there's a link to my classmate's github, I still need to do that part)
 
 ### Jekyll Themes
 
