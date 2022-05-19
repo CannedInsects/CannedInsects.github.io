@@ -13,9 +13,8 @@ If you want to see my replit account here's the link :D https://replit.com/@Snim
 4. Listening to music
 
 ### What kind of coding do I do exactly?
-Personally I really like turtle it's visual and it's fun to use! :D Other than that I can only really do basic code but I want to improve because I've always wanted to make a video game. 
-
-[Link](url) and ![Image](src)
+Personally I really like using turtle it's visual and it's fun to use! :D Other than that I can only really do basic python but I want to improve because I've always wanted to make a video game. 
+[link](file:///C:/Users/sofia/Downloads/funny%20man%20garfield.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
