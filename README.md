@@ -23,9 +23,6 @@ A song I think is pretty neat: https://youtu.be/EeVMCOfYhJo
 Garfield: https://www.gocomics.com/garfield/2007/11/26  
 (Pretend there's a link to my classmate's github, I still need to do that part)  
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CannedInsects/CannedInsects.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
+### Conclusion
+Did you know one of the largest species of beetles are the Rhinoceros beetle, they can grow up to 6 inches and some people keep them as pets!  
+That's not important I just think that's neat.
