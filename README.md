@@ -1,4 +1,5 @@
 ## Welcome to the cool kid zone 
+![funny man garfield](https://user-images.githubusercontent.com/100317470/169408916-e4b5522e-a7ba-4f3d-8913-c78d39a91e66.jpg)
 
 I can sort of code, I dunno I'm trying my best
 
