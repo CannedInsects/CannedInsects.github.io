@@ -4,7 +4,6 @@ I can sort of code, I dunno I'm trying my best
 
 If you want to see my replit account here's the link :D https://replit.com/@Snimz 
 
-[![Hank Hill](/assets/images/hankhill.jpeg)]([[https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv](https://upload.wikimedia.org/wikipedia/en/c/c4/Hank_Hill.png](https://img2.hulu.com/user/v3/artwork/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53?base_image_bucket_name=image_manager&base_image=5b64a2d4-d0b3-464a-9be0-ea5ad33810a5&size=458x687&format=jpeg])
 
 ### Markdown
 
