@@ -12,7 +12,9 @@ If you want to see my replit account here's the link :D https://replit.com/@Snim
 1. Bugs
 2. Horror Fiction Podcasts
 3. Pet sites (Neopets, Goatlings, Webkinz etc)
-4. Listening to music
+4. Garfield  
+
+![hey-there-garfield](https://user-images.githubusercontent.com/100317470/169409833-d2deac35-f64a-405b-b01d-448817538ab6.gif)
 
 ### What kind of coding do I do exactly?
 Personally I really like using turtle it's visual and it's fun to use! :D Other than that I can only really do basic python but I want to improve because I've always wanted to make a video game. 
