@@ -12,20 +12,8 @@ If you want to see my replit account here's the link :D https://replit.com/@Snim
 3. Pet sites (Neopets, Goatlings, Webkinz etc)
 4. Listening to music
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+### What kind of coding do I do exactly?
+Personally I really like turtle it's visual and it's fun to use! :D Other than that I can only really do basic code but I want to improve because I've always wanted to make a video game. 
 
 [Link](url) and ![Image](src)
 ```
@@ -38,4 +26,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
